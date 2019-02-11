@@ -1,0 +1,56 @@
+RUN0001
+START : Sat Feb  9 20:01:26 2019
+STOP  : Sat Feb  9 20:03:19 2019
+Pulser test 100cps
+
+
+
+RUN0002
+START : Sun Feb 10 00:02:32 2019
+STOP  : Sun Feb 10 00:06:31 2019
+thr 305.8 16ch_read out
+
+
+
+RUN0003
+START : Sun Feb 10 00:17:56 2019
+STOP  : Sun Feb 10 00:18:52 2019
+thr 305.8 16ch_readout gate adjust
+
+
+
+RUN0004
+START : Sun Feb 10 00:24:52 2019
+STOP  : Sun Feb 10 00:36:33 2019
+thr 3.5V
+
+
+
+RUN0005
+START : Sun Feb 10 00:39:51 2019
+STOP  : Sun Feb 10 00:45:35 2019
+thr3.5V gate100ns
+
+
+
+RUN0006
+START : Sun Feb 10 00:50:27 2019
+STOP  : Sun Feb 10 00:59:58 2019
+thr 1V
+
+
+
+RUN0007
+START : Sun Feb 10 01:04:28 2019
+STOP  : Sun Feb 10 01:12:40 2019
+thr1V gate2micros
+
+
+
+RUN0008
+START : Sun Feb 10 01:15:14 2019
+STOP  : Sun Feb 10 01:22:28 2019
+delay22ns
+
+
+
